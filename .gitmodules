@@ -1,0 +1,6 @@
+[submodule "mongo-101"]
+	path = mongo-101
+	url = ./mongo-101
+[submodule "video-club"]
+	path = video-club
+	url = ./video-club
