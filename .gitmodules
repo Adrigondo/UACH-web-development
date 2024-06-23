@@ -1,6 +1,9 @@
 [submodule "mongo-101"]
 	path = mongo-101
-	url = ./mongo-101
+	url = https://gitlab.com/Adrigondo/wp-mongo-101
 [submodule "video-club"]
 	path = video-club
-	url = ./video-club
+	url = https://github.com/stariluz/uach-wp-videoclub-api-express
+[submodule "project-manager"]
+	path = project-manager
+	url = https://github.com/stariluz/uach-wp-project-manager-api-express
